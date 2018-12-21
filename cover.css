@@ -22,7 +22,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url('/AT-bg.jpg');
+  background-image: url('../AT-bg.jpg');
   background-size: cover;
   background-position: center;
 }
